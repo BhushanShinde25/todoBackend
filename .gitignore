@@ -1,0 +1,62 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Next.js
+.next/
+out/
+build/
+
+# Environment Variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build Output
+dist/
+*.lock
+
+# Dependency directories
+coverage/
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# Mac system files
+.DS_Store
+
+# Debugging
+*.bak
+*.tmp
+
+# Temporary files
+tmp/
+temp/
+
+# Backend
+Backend/node_modules/
+Backend/dist/
+Backend/logs/
